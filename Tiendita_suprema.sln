@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tiendita_suprema", "Tiendita_suprema.csproj", "{8D1A5E87-A2B7-45B7-A703-9F227D8C296D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D1A5E87-A2B7-45B7-A703-9F227D8C296D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1A5E87-A2B7-45B7-A703-9F227D8C296D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1A5E87-A2B7-45B7-A703-9F227D8C296D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1A5E87-A2B7-45B7-A703-9F227D8C296D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0756B629-AE3F-4A5D-8B6D-990607E192FF}
+	EndGlobalSection
+EndGlobal

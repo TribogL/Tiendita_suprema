@@ -1,0 +1,6 @@
+@Tiendita_suprema_HostAddress = http://localhost:5233
+
+GET {{Tiendita_suprema_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
